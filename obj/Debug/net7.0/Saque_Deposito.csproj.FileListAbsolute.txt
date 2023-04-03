@@ -1,0 +1,15 @@
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\bin\Debug\net7.0\Saque_Deposito.exe
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\bin\Debug\net7.0\Saque_Deposito.deps.json
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\bin\Debug\net7.0\Saque_Deposito.runtimeconfig.json
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\bin\Debug\net7.0\Saque_Deposito.dll
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\bin\Debug\net7.0\Saque_Deposito.pdb
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\Saque_Deposito.csproj.AssemblyReference.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\Saque_Deposito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\Saque_Deposito.AssemblyInfoInputs.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\Saque_Deposito.AssemblyInfo.cs
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\Saque_Deposito.csproj.CoreCompileInputs.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\Saque_Deposito.dll
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\refint\Saque_Deposito.dll
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\Saque_Deposito.pdb
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\Saque_Deposito.genruntimeconfig.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C#\Saque_Deposito\obj\Debug\net7.0\ref\Saque_Deposito.dll
